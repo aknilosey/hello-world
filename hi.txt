@@ -1,3 +1,5 @@
 Hello! I'm learning Git because I am awesome.
 
-I'm adding a line. 
+I'm adding a line.
+This is a new sentence.
+Hi, I'm on github
